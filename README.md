@@ -22,7 +22,7 @@ This is a simple Hotel Management System implemented in C++. The system allows h
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/hotel-management-system.git
+    git clone https://github.com/ThariduNiroshan530/TharHotel-Management-System.git
     ```
 
 2. Navigate to the project directory:
